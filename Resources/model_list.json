@@ -1,8 +1,0 @@
-{
-    "models": [
-        [ "akulu", "Haru", "Hiyori", "Mao", "Mark", "Natori", "Rice", "Wanko" ]
-    ],
-    "messages": [
-        [ "你好，我是akulu", "你好，我是Haru", "你好，我是Hiyori", "你好，我是Mao", "你好，我是Mark", "你好，我是Natori", "你好，我是Rice", "汪汪，我是Wanko" ]
-    ]
-}
